@@ -6,7 +6,7 @@ namespace Thema3_Klassen_en_Objecten_Opdracht2
     {
     
         /*
-            Thema3_Klassen_en_Objecten_Opdracht1 
+            Thema3_Klassen_en_Objecten_Opdracht2 
 
                 In opdracht TSO - C#.NET THEMA3 : OOP - OPDRACHT1 heb je de code voor 
                 de klasse balk geschreven. 
